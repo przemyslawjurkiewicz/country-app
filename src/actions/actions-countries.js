@@ -19,7 +19,7 @@ export function getCountry(id) {
 
 export function deleteCountry(id) {
     return {
-        typ: DELETE_COUNTRY,
+        type: DELETE_COUNTRY,
         id
     }
 }
