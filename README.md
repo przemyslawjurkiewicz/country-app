@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Live
-https://przemyslawjurkiewicz.github.io/country-app/
+https://country--app.herokuapp.com/#/
 
 ## Available Scripts
 
